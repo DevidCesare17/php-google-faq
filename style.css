@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  padding: ;
+  margin: ;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.container{
+  width: 65%;
+  margin: auto;
+}
